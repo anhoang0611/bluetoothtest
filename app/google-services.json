@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26908932751",
+    "firebase_url": "https://bluetoothtest-acb00-default-rtdb.firebaseio.com",
+    "project_id": "bluetoothtest-acb00",
+    "storage_bucket": "bluetoothtest-acb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26908932751:android:3289ecd683d7b4e3754efa",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26908932751-g8esrhl7vcanpdudckbjdlicq2krem3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuztFm_hf8sY6AEsEGhXmiME9LTEWW8ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26908932751-g8esrhl7vcanpdudckbjdlicq2krem3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
